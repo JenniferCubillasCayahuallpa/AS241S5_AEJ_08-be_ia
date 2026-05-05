@@ -3,7 +3,7 @@ spring:
     name: jennifer.cubillas
   data:
     mongodb:
-      uri: mongodb+srv://luisrivas:Alexander1903@cluster0.gr4avuk.mongodb.net/ia_db?appName=Cluster0
+      uri: mongodb+srv://alecubillas31:Cubillas31@cluster0.q8n7w4f.mongodb.net/ia_db?appName=Cluster0
       database: ia_db
 server:
   port: 8080
